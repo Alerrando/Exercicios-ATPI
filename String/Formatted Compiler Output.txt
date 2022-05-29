@@ -1,0 +1,2 @@
+C:\Users\CaroLina\Google Drive\Faculade de Ciência da Computação\ATP = 1\Exercicios\String\Exemplo.cpp	In function 'int main()':
+21	29	C:\Users\CaroLina\Google Drive\Faculade de Ciência da Computação\ATP = 1\Exercicios\String\Exemplo.cpp	[Error] 'toupper' was not declared in this scope
